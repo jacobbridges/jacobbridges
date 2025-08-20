@@ -4,16 +4,7 @@
 
 ### About me
 
-I am a software engineer, composer, and amateur woodworker. I live in Huntsville with my
-wife. We have children.
-
-Across my 16 years of software development, I have built no open source projects of major 
-significance. I have started many projects -- and much like this sentence, they remain. However, 
-I enjoy browsing the trending lists of Github and seeing other developers have their work
-showcased by the algorithm. _Good for them,_ I think to myself while spending another Saturday 
-canoing with my unspecified number of children. _One day I will build something like that._
-
-When I'm not indulging my passion for paraphrasing Richard Ayoade, I also enjoy coding.
+I am a software engineer, composer, and amateur woodworker. I live in Huntsville AL.
 
 ### Here are some badges:
 
